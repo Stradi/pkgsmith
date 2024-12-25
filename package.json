@@ -1,0 +1,14 @@
+{
+  "name": "pkgsmith",
+  "version": "0.0.0-development.0",
+  "author": "Batin Evirgen <me@batin.sh>",
+  "license": "MIT",
+  "homepage": "https://github.com/Stradi/pkgsmith#readme",
+  "bugs": {
+    "url": "https://github.com/Stradi/pkgsmith/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh//git@github.com/Stradi/pkgsmith.git"
+  }
+}
